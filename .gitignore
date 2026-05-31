@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .env
 node_modules
 *yarn-error.log
@@ -35,3 +36,6 @@ dist/**
 
 .cursorignore
 **/.medusa
+=======
+
+>>>>>>> 4795867f98296a1b8e22daabc9da449b241733f1
